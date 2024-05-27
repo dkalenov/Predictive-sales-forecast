@@ -1,4 +1,4 @@
-Week,SKU,Customer,Unit Price ($),Units sold ('000s)
+date,SKU,customer,price,sales
 31/Mar/2019,SKU01001,CUS09005,4.99,13
 07/Apr/2019,SKU01001,CUS09005,4.99,12.9
 14/Apr/2019,SKU01001,CUS09005,4.99,14.8
